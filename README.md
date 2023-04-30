@@ -6,5 +6,5 @@ build.js
 fns.js  
 are responsible for converting figma tokens into Amazon Style Dictionary tokens  
 
-`updateclean.js  
+updateclean.js  
 is responsible for cleaning converted tkens files
