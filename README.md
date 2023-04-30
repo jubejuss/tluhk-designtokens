@@ -8,3 +8,5 @@ are responsible for converting figma tokens into Amazon Style Dictionary tokens
 
 updateclean.js  
 is responsible for cleaning converted tkens files
+
+test
