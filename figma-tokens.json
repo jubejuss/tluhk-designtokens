@@ -505,6 +505,14 @@
       "value": "1rem",
       "type": "spacing",
       "description": "Put image, image headline, description and autohor into one column grid and use this gap"
+    },
+    "card-border-radius": {
+      "value": "0.5rem",
+      "type": "borderRadius"
+    },
+    "card-border-width": {
+      "value": "2",
+      "type": "borderWidth"
     }
   },
   "light": {
@@ -748,6 +756,14 @@
     },
     "table-hover-cell": {
       "value": "{primary.900}",
+      "type": "color"
+    },
+    "card-background": {
+      "value": "linear-gradient(212deg, rgba(97,55,141,1) 0%, rgba(88,41,138,0.43) 100%)",
+      "type": "color"
+    },
+    "card-stroke": {
+      "value": "linear-gradient(212deg, rgba(242,248,253,0.1699054621848739) 0%, rgba(242,248,253,0) 100%);",
       "type": "color"
     }
   },
