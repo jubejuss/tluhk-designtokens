@@ -619,7 +619,7 @@
       }
     },
     "table-cell": {
-      "value": "{primary.100}",
+      "value": "{page-background}",
       "type": "color"
     },
     "table-header-cell": {
@@ -627,7 +627,7 @@
       "type": "color"
     },
     "table-hover-cell": {
-      "value": "{primary.300}",
+      "value": "{primary.100}",
       "type": "color"
     }
   },
@@ -743,11 +743,11 @@
       "type": "color"
     },
     "table-header-cell": {
-      "value": "{primary.900}",
+      "value": "{primary.800}",
       "type": "color"
     },
     "table-hover-cell": {
-      "value": "{primary.800}",
+      "value": "{primary.900}",
       "type": "color"
     }
   },
