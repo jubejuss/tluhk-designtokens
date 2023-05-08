@@ -637,6 +637,10 @@
     "table-hover-cell": {
       "value": "{primary.100}",
       "type": "color"
+    },
+    "card-stroke": {
+      "value": "{primary.600}",
+      "type": "color"
     }
   },
   "dark": {
