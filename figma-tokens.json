@@ -641,6 +641,17 @@
     "card-stroke": {
       "value": "{primary.600}",
       "type": "color"
+    },
+    "card-hover-shadow": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "22",
+        "spread": "0",
+        "color": "{primary.100}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "dark": {
@@ -769,6 +780,17 @@
     "card-stroke": {
       "value": "{primary.600}",
       "type": "color"
+    },
+    "card-hover-shadow": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "22",
+        "spread": "0",
+        "color": "{neutral.200}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "$themes": [],
