@@ -617,6 +617,18 @@
         "value": "{primary.600}",
         "type": "color"
       }
+    },
+    "table-cell": {
+      "value": "{primary.100}",
+      "type": "color"
+    },
+    "table-header-cell": {
+      "value": "{primary.200}",
+      "type": "color"
+    },
+    "table-hover-cell": {
+      "value": "{primary.300}",
+      "type": "color"
     }
   },
   "dark": {
@@ -725,6 +737,18 @@
         "value": "{primary.400}",
         "type": "color"
       }
+    },
+    "table-cell": {
+      "value": "{primary.1000}",
+      "type": "color"
+    },
+    "table-header-cell": {
+      "value": "{primary.900}",
+      "type": "color"
+    },
+    "table-hover-cell": {
+      "value": "{primary.800}",
+      "type": "color"
     }
   },
   "$themes": [],
