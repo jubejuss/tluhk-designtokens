@@ -705,29 +705,27 @@
       "value": "{primary.700}",
       "type": "color"
     },
-    "dark": {
-      "drop-shadow": {
-        "value": {
-          "x": "4",
-          "y": "4",
-          "blur": "11",
-          "spread": "0",
-          "color": "{primary.1000}50",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
+    "drop-shadow": {
+      "value": {
+        "x": "4",
+        "y": "4",
+        "blur": "11",
+        "spread": "0",
+        "color": "{primary.1000}50",
+        "type": "dropShadow"
       },
-      "drop-shadow-strong": {
-        "value": {
-          "color": "#ffffff8c",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "22",
-          "spread": "0"
-        },
-        "type": "boxShadow"
-      }
+      "type": "boxShadow"
+    },
+    "drop-shadow-strong": {
+      "value": {
+        "color": "#ffffff8c",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "22",
+        "spread": "0"
+      },
+      "type": "boxShadow"
     },
     "link-hover": {
       "value": "{neutral.300}",
