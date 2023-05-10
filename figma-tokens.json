@@ -402,6 +402,10 @@
       "primary": {
         "value": "{primary.600}",
         "type": "color"
+      },
+      "primary-on-light": {
+        "value": "#9F8060",
+        "type": "color"
       }
     },
     "article-bottom": {
@@ -652,6 +656,11 @@
         "type": "innerShadow"
       },
       "type": "boxShadow"
+    },
+    "stroke": {
+      "value": "{system.primary-on-light}",
+      "type": "color",
+      "description": "Use with 50% opacity"
     }
   },
   "dark": {
@@ -791,6 +800,11 @@
         "type": "innerShadow"
       },
       "type": "boxShadow"
+    },
+    "stroke": {
+      "value": "{primary.600}",
+      "type": "color",
+      "description": "Use with 50% opacity"
     }
   },
   "$themes": [],
