@@ -675,6 +675,17 @@
       "value": "{primary-revert.100}",
       "type": "color",
       "description": "Use with 50% opacity"
+    },
+    "drop-shadow": {
+      "value": {
+        "x": "4",
+        "y": "4",
+        "blur": "11",
+        "spread": "0",
+        "color": "{primary.1000}11",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "dark": {
@@ -697,12 +708,12 @@
     "dark": {
       "drop-shadow": {
         "value": {
-          "color": "#ffffff40",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "22",
-          "spread": "0"
+          "x": "4",
+          "y": "4",
+          "blur": "11",
+          "spread": "0",
+          "color": "{primary.1000}50",
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       },
