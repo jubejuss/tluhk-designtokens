@@ -164,7 +164,7 @@
       "value": {
         "fontFamily": "{Montserrat}",
         "fontWeight": "500",
-        "lineHeight": "{body-line-height}",
+        "lineHeight": "{body-sm-line-height}",
         "fontSize": "{text-sm}",
         "letterSpacing": "",
         "paragraphSpacing": "{body-paragraph-spacing}",
@@ -178,7 +178,7 @@
       "value": {
         "fontFamily": "{Montserrat}",
         "fontWeight": "500",
-        "lineHeight": "{body-line-height}",
+        "lineHeight": "{body-xs-line-height}",
         "fontSize": "{text-xs}",
         "letterSpacing": "",
         "paragraphSpacing": "{body-paragraph-spacing}",
@@ -523,6 +523,14 @@
         "value": "#E2D9CF",
         "type": "color"
       }
+    },
+    "body-sm-line-height": {
+      "value": "125%",
+      "type": "lineHeights"
+    },
+    "body-xs-line-height": {
+      "value": "125%",
+      "type": "lineHeights"
     }
   },
   "light": {
