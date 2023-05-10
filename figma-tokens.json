@@ -403,7 +403,7 @@
         "value": "{primary.600}",
         "type": "color"
       },
-      "primary-on-light": {
+      "primary-revert": {
         "value": "#9F8060",
         "type": "color"
       }
@@ -517,6 +517,12 @@
     "card-border-width": {
       "value": "2",
       "type": "borderWidth"
+    },
+    "primary-revert": {
+      "100": {
+        "value": "#ECE6DF",
+        "type": "color"
+      }
     }
   },
   "light": {
@@ -658,7 +664,7 @@
       "type": "boxShadow"
     },
     "stroke": {
-      "value": "{system.primary-on-light}",
+      "value": "{primary-revert.100}",
       "type": "color",
       "description": "Use with 50% opacity"
     }
@@ -802,7 +808,7 @@
       "type": "boxShadow"
     },
     "stroke": {
-      "value": "{primary.600}",
+      "value": "{primary.800}",
       "type": "color",
       "description": "Use with 50% opacity"
     }
