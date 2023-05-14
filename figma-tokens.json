@@ -810,7 +810,7 @@
       "type": "color"
     },
     "menu-card-background": {
-      "value": "linear-gradient(212deg, rgba(127,112,143,0.33) 0%, rgba(78,43,114,0.13) 100%)",
+      "value": "linear-gradient(0deg, #291A37 0%, #291B37 11%, #3E314A 100%)",
       "type": "color"
     },
     "menu-card-stroke": {
