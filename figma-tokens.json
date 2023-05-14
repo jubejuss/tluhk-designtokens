@@ -806,7 +806,7 @@
       "type": "color"
     },
     "card-background": {
-      "value": "linear-gradient(212deg, rgba(13,8,17,1) 0%, rgba(85,59,108,0.19) 100%)",
+      "value": "linear-gradient(35deg, rgba(13,8,17,1) 0%, rgba(85,59,108,0.19) 100%)",
       "type": "color"
     },
     "card-stroke": {
