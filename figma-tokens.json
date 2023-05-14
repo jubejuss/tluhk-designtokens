@@ -810,7 +810,7 @@
       "type": "color"
     },
     "card-stroke": {
-      "value": "{primary.800}",
+      "value": "{primary.900}",
       "type": "color"
     },
     "card-hover-shadow": {
