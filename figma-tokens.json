@@ -814,7 +814,7 @@
       "type": "color"
     },
     "menu-card-stroke": {
-      "value": "linear-gradient(35deg, rgba(0,248,253,0.16) 0%, rgba(242,252,253,0) 100%)",
+      "value": "linear-gradient(180deg, #f2f8fd29 0%, #f2fcfd00 100%)",
       "type": "color"
     },
     "card-stroke": {
