@@ -809,6 +809,10 @@
       "value": "linear-gradient(35deg, rgba(13,8,17,1) 0%, rgba(85,59,108,0.19) 100%)",
       "type": "color"
     },
+    "menu-card-background": {
+      "value": "linear-gradient(35deg, rgba(127,112,143,0.33) 0%, rgba(78,43,114,0.13) 100%)",
+      "type": "color"
+    },
     "card-stroke": {
       "value": "{primary.900}",
       "type": "color"
