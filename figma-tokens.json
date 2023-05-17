@@ -687,27 +687,25 @@
       },
       "type": "boxShadow"
     },
-    "radio-shadow-hover": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "22px",
-          "spread": "0",
-          "color": "{neutral.500}",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
     "radio-shadow": {
       "value": {
         "x": "0",
         "y": "5px",
         "blur": "7px",
         "spread": "0",
-        "color": "#000000",
+        "color": "{neutral.900}70",
         "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    },
+    "radio-shadow-hover": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "22px",
+        "spread": "0",
+        "color": "{neutral.500}",
+        "type": "dropShadow"
       },
       "type": "boxShadow"
     }
