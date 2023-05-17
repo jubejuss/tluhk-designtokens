@@ -887,9 +887,9 @@
       "value": {
         "x": "0",
         "y": "5px",
-        "blur": "22px",
+        "blur": "7px",
         "spread": "0",
-        "color": "{primary.100}",
+        "color": "{primary.900}70",
         "type": "dropShadow"
       },
       "type": "boxShadow",
