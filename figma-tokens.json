@@ -687,26 +687,38 @@
       },
       "type": "boxShadow"
     },
-    "radio-outer-shadow": {
-      "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "22",
-        "spread": "0",
-        "color": "{primary.300}",
-        "type": "dropShadow"
-      },
+    "radio-shadow": {
+      "value": [
+        {
+          "x": "0",
+          "y": "5",
+          "blur": "7",
+          "spread": "0",
+          "color": "{neutral.900}70",
+          "type": "innerShadow"
+        }
+      ],
       "type": "boxShadow"
     },
-    "radio-inner-shadow": {
-      "value": {
-        "x": "4",
-        "y": "4",
-        "blur": "11",
-        "spread": "0",
-        "color": "{primary.1000}",
-        "type": "innerShadow"
-      },
+    "radio-shadow-hover": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "22",
+          "spread": "0",
+          "color": "{neutral.500}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "5",
+          "blur": "7",
+          "spread": "0",
+          "color": "{neutral.900}70",
+          "type": "innerShadow"
+        }
+      ],
       "type": "boxShadow"
     }
   },
