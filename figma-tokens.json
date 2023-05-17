@@ -710,14 +710,6 @@
           "spread": "0",
           "color": "{neutral.500}",
           "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "5px",
-          "blur": "7px",
-          "spread": "0",
-          "color": "{neutral.900}70",
-          "type": "innerShadow"
         }
       ],
       "type": "boxShadow"
