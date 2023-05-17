@@ -890,7 +890,7 @@
         "blur": "7px",
         "spread": "0",
         "color": "{primary.900}70",
-        "type": "dropShadow"
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "overall shadow for radio button"
